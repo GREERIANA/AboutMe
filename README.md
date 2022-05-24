@@ -20,10 +20,10 @@
 
 ### CORE SKILLS
 - Mind mapping customer journeys using Miro and Lucid.
-- Design user interfaces based on customer journeys and user research.
+- Designing user interfaces based on customer journeys and user research.
 - Prototyping experiences using Figma, Framer, Adobe XD and LottieFiles.
 - Building cohesive design systems with Visual Studio Code and Adobe XD's Design System Package.
-- Engineer component driven designs using Storybook, React, and TypeScript.
+- Engineering component driven designs using Storybook, React, and TypeScript.
 
 ### COMPETENCIES
 - Relentless determination.
