@@ -1,3 +1,6 @@
+---
+---
+
 ### BIO 👋
 
 - 🔭 I’m currently working on ... an AI-first eCommerce platfom powered by IBM Watson.
@@ -28,3 +31,6 @@
 - Problem-solver and critical-thinker.
 - Organized and highly attentive to detail.
 - Empathetic and understanding.
+
+---
+---
