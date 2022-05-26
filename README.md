@@ -7,9 +7,9 @@
 - 🌱 I’m currently learning ... Rust, WebAssembly, and the WASM Cloud.
 - 👯 I’m looking to collaborate on ... fashion and beauty brand startups.
 - :books:  I'm currently reading
-- >> Terraform Up and Running, Vol. 3; 
-- >> The Phoenix Project; 
-- >> UX Strategy, 2nd Ed. by Jamie Levy
+- > Terraform Up and Running, Vol. 3; 
+- > The Phoenix Project; 
+- > UX Strategy, 2nd Ed. by Jamie Levy
 
 
 ---
