@@ -24,11 +24,11 @@
 - Engineering component driven designs using Storybook, React, and TypeScript.
 
 ### COMPETENCIES
-- Relentless determination.
-- Collaborative mindset.
-- Problem-solver and critical-thinker.
-- Organized and highly attentive to detail.
-- Empathetic and understanding.
+- Relentless determination
+- Collaborative mindset
+- Problem-solver and critical-thinker
+- Organized and highly attentive to detail
+- Empathetic and understanding
 
 ---
 ---
