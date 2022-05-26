@@ -6,10 +6,11 @@
 - 🔭 I’m currently working on ... an AI-first eCommerce platfom powered by IBM Watson.
 - 🌱 I’m currently learning ... Rust, WebAssembly, and the WASM Cloud.
 - 👯 I’m looking to collaborate on ... fashion and beauty brand startups.
-<!-- - 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... 
-- 📫 How to reach me: ... 
--->
+- :books:  I'm currently reading
+- >> Terraform Up and Running, Vol. 3; 
+- >> The Phoenix Project; 
+- >> UX Strategy, 2nd Ed. by Jamie Levy
+
 
 ---
 ### AREA OF EXPERTISE
