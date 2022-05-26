@@ -6,10 +6,7 @@
 - 🔭 I’m currently working on ... an AI-first eCommerce platfom powered by IBM Watson.
 - 🌱 I’m currently learning ... Rust, WebAssembly, and the WASM Cloud.
 - 👯 I’m looking to collaborate on ... fashion and beauty brand startups.
-- :books:  I'm currently reading
-> Terraform Up and Running, Vol. 3; 
-> The Phoenix Project; 
-> UX Strategy, 2nd Ed. by Jamie Levy
+- :books:  I'm currently reading ... Terraform Up and Running, Vol. 3 by Yevgeniy Brikman; The Phoenix Project by By Gene Kim, Kevin Behr and George Spafford; UX Strategy, 2nd Ed. by Jamie Levy.
 
 
 ---
