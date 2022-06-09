@@ -13,8 +13,8 @@
 ---
 ### AREA OF EXPERTISE
  - Ecommerce, user experience engineering, interface design, and rapid prototyping.
- - Crafting digital experiences for fashion and beauty brands.
- - Using data to make business decisions and design recommendations.
+ - Crafting digital experiences for fashion and beauty brands using design best practices.
+ - Conversational AI, Natural Language Understanding, and Deep Learning.
 ---
 
 ### CORE SKILLS
