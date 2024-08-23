@@ -4,7 +4,7 @@
 ### BIO 👋
 
 - 🛠️ I’m currently working on ... an eCommerce platfom powered by IBM Watsonx.
-- 🧠 I’m currently learning ... Rust, WebAssembly, and the WASM Cloud.
+- 🧠 I’m currently learning ... Rust, Julia, and Elixr.
 - 📡 I’m looking to collaborate on ... fashion and beauty brand startups.
 - 📚 I'm currently reading ... Terraform Up and Running, Vol. 3 by Yevgeniy Brikman; The Phoenix Project by By Gene Kim, Kevin Behr and George Spafford; UX Strategy, 2nd Ed. by Jamie Levy; How to Negotiate with Terrorists by Chris Voss.
 - 🥓 I'm currently available for ... freelance work and consultation. Would consider full-time employment for the right opportunity.
